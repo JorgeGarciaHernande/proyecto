@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import java.awt.event.KeyEvent;
-
+///a2223330155
 public class Practica02_b2 extends JFrame implements ActionListener  {
 	private static final long serialVersionUID = 1L;
 	private JPanel PanelPrincipal;
